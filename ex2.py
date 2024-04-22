@@ -1,5 +1,4 @@
-print(''''""''')
-a=3
+a=5
 print(f'print a value={a}')
 print=('a=%d',a)
 #print('a',int(a))
@@ -11,3 +10,4 @@ print(v_1,  v_2 , v_3)
 print("\t How i wonder what you are! ")
 a,b,c= 1,2,3
 print(a,b,c)
+print("how i wonder")
